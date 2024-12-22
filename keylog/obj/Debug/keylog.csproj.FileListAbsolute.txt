@@ -1,0 +1,7 @@
+C:\Users\meta\source\repos\keylog\keylog\bin\Debug\keylog.exe.config
+C:\Users\meta\source\repos\keylog\keylog\bin\Debug\keylog.exe
+C:\Users\meta\source\repos\keylog\keylog\bin\Debug\keylog.pdb
+C:\Users\meta\source\repos\keylog\keylog\obj\Debug\keylog.csproj.AssemblyReference.cache
+C:\Users\meta\source\repos\keylog\keylog\obj\Debug\keylog.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\keylog\keylog\obj\Debug\keylog.exe
+C:\Users\meta\source\repos\keylog\keylog\obj\Debug\keylog.pdb
