@@ -1,10 +1,10 @@
->> This is a advance KeyLoggerwritten in c# <<
+~ This is a advance KeyLoggerwritten in c# ~
 
->   This is Can Bypass All Antivirus 
+~ This is Can Bypass All Antivirus 
 
-> Working In All Windows
+~ Working In All Windows
 
->    Follow these steps 
+~   Follow these steps 
 
 How to Create a Telegram Bot and Get User ID
 Create a Telegram Bot using @BotFather:
@@ -21,4 +21,4 @@ Using the User ID and Bot Token:
 Paste your Telegram bot API token and User ID in the provided fields (as per your application).
 That’s it! Enjoy using your Telegram bot.
 
-> If you any problem doing this contact me on telegram @Dyar_kalai write properly means just check leteer and spelling fix properly this is my github project
+~ If you any problem doing this contact me on telegram @Dyar_kalai 
